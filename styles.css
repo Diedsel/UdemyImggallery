@@ -5,6 +5,7 @@ body {
     color: #2c3e50;
     background-color: aquamarine;
 }
-.navbar {
-    color: blue;
+
+.navbg {
+  background-color: #ff0000; /* You can change color of nav to your desired color */
 }
